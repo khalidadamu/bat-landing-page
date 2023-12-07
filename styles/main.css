@@ -145,8 +145,9 @@ a {
 }
 
 div>h2 {
-     color: rgba(0, 72, 255, 1);
+color: rgba(0, 72, 255, 1);
      font-size: 35px;
+     padding-top: 100px;
 }
 
 .about__company_container>p {
